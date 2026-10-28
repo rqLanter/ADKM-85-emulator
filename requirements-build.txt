@@ -1,0 +1,3 @@
+# Dependencies required only for rebuilding the Windows EXE.
+-r requirements.txt
+pyinstaller==6.22.3
